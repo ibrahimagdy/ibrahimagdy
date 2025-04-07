@@ -20,7 +20,7 @@
 <a href="https://www.linkedin.com/in/ibrahimagdy/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <a href="mailto:iibbrraahhimm00@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/drive/folders/1X-XFxZDTOles0JuFHD8GvfktRBAx5khe)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1dyYCdvJF0dOFuCEUo-E33PfmuXJYAV9o/view?usp=sharing)
 
  <a href="https://www.github.com/ibrahimagdy" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ibrahimagdy?logo=github&style=for-the-badge&color=ef4444&labelColor=831843" title="Follow me to get the updates!"/></a>
